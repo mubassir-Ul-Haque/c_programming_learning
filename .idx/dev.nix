@@ -6,6 +6,7 @@
   # Use https://search.nixos.org/packages to find packages
   packages = [
     pkgs.docker
+    pkgs.gcc
     pkgs.docker-compose
   ];
   # Enable Docker
